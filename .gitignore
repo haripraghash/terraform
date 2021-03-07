@@ -1,3 +1,12 @@
 aws/ec2/terraform.tfstate
 aws/ec2/terraform.tfstate.backup
 aws/ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/3.31.0/linux_amd64/terraform-provider-aws_v3.31.0_x5
+aws/stage/webserver-cluster/.terraform/terraform.tfstate
+aws/stage/webserver-cluster/.terraform/providers/registry.terraform.io/hashicorp/aws/3.31.0/linux_amd64/terraform-provider-aws_v3.31.0_x5
+aws/stage/webserver-cluster/.terraform/providers/registry.terraform.io/hashicorp/template/2.2.0/linux_amd64/terraform-provider-template_v2.2.0_x4
+aws/stage/data-store/mysql/.terraform/providers/registry.terraform.io/hashicorp/aws/3.31.0/linux_amd64/terraform-provider-aws_v3.31.0_x5
+aws/stage/data-store/mysql/.terraform/terraform.tfstate
+aws/s3/terraform.tfstate
+aws/s3/terraform.tfstate.backup
+aws/s3/.terraform/terraform.tfstate
+aws/s3/.terraform/providers/registry.terraform.io/hashicorp/aws/3.31.0/linux_amd64/terraform-provider-aws_v3.31.0_x5
